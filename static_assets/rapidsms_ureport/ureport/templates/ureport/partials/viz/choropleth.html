@@ -165,7 +165,7 @@
             'opacity': 1.0
         };
 
-        return new OpenLayers.Layer.WMS("unicef:polls", "{{ geoserver_url }}unicef/wms", params, options);
+        return new OpenLayers.Layer.WMS("unicef:polls_south_sudan", "{{ geoserver_url }}unicef/wms", params, options);
     }
     function createGoogleBaseLayer () {
             return new OpenLayers.Layer.Google(
