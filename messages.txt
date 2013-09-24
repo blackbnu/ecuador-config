@@ -1,6 +1,6 @@
 0=Welcome to U-report!, U-report is a FREE service that helps youth speak out on issues in their communities using SMS. SPEAK UP and BE HEARD!
 1=Now we are going to ask a few questions to finish your registration as a U-reporter. How did you hear about ureport?
-2=Now, please reply with the name of your PAYAM.
+2=Now, please reply with the name of your COUNTY.
 4=What is your AGE? Please reply with only the number.
 5=Are you male or female? Please reply F for female or M for male.
 6=Which village from your PAYAM are you reporting from?
