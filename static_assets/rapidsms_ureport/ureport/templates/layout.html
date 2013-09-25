@@ -71,13 +71,8 @@
 
 	    <div class="footer">
 	       <div class="sponsors">
-	           Supported by:
-	           <img src="{{ MEDIA_URL }}ureport/images/unicef_logo.png"/>
-
-	           <img src="{{ MEDIA_URL }}ureport/images/scouts_logo.png"/>
-	           <img src="{{ MEDIA_URL }}ureport/images/cou_logo.png"/>
-	           <img src="{{ MEDIA_URL }}ureport/images/gem_logo.png"/>
-               <img src="{{ MEDIA_URL }}ureport/images/ibm_logo.jpg" />
+		       {% trans "Supported by" %}:
+		       {% include 'ureport/footer_links.html' %}
 	       </div>
 	       <div class="footerlinks">
 	           <div class="nav-bottom">
