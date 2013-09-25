@@ -216,11 +216,12 @@ div.why-placeholder span {
 }
 
 .sponsors {
-    height: 75px;
-    background-color: #00aeef;
-    color: white;
-    margin-top: 20px;
-    padding: 10px 0px 10px 50px;
+	background-color: #00aeef;
+	color: white;
+	height: 35px;
+	margin-top: 20px;
+	padding-left: 50px;
+	padding-top: 10px;
 }
 
 .sponsors img {
