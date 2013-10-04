@@ -1,16 +1,15 @@
-
 tokens:
-	district: county
+  district: county
 rules:
-	yes:
-		- yes
-		- yeah
-		- yep
-		- yay
-		- y
-	no:
-		- no
-		- nope
-		- nah
-		- nay
-		- n
+  'yes':
+    - 'yes'
+    - 'yeah'
+    - 'yep'
+    - 'yay'
+    - 'y'
+  'no':
+    - 'no'
+    - 'nope'
+    - 'nah'
+    - 'nay'
+    - 'n'
