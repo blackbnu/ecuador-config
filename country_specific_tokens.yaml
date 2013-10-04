@@ -1,1 +1,16 @@
-district: county
+
+tokens:
+	district: county
+rules:
+	yes:
+		- yes
+		- yeah
+		- yep
+		- yay
+		- y
+	no:
+		- no
+		- nope
+		- nah
+		- nay
+		- n
