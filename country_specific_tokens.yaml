@@ -1,20 +1,25 @@
 tokens:
-  district: county
+    district: county
 rules:
-  'yes':
-    - 'yes'
-    - 'yeah'
-    - 'yep'
-    - 'yay'
-    - 'y'
-    - 'نعم'
-    - 'أجل'
-    - 'بلى'
-  'no':
-    - 'no'
-    - 'nope'
-    - 'nah'
-    - 'nay'
-    - 'n'
-    - 'لا'
-    - 'أبدا'
+    en:
+        'yes':
+            - 'yes'
+            - 'yeah'
+            - 'yep'
+            - 'yay'
+            - 'y'
+        'no':
+            - 'no'
+            - 'nope'
+            - 'nah'
+            - 'nay'
+            - 'n'
+    ar:
+        'yes':
+            - 'نعم'
+            - 'أجل'
+            - 'بلى'
+        'no':
+            - 'لا'
+            - 'أبدا'
+
