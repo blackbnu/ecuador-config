@@ -27,3 +27,6 @@ rules:
 opt_in_words:
     - 'انضم'
     - 'join'
+opt_out_words:
+    - 'استقال'
+    - 'quit' 
