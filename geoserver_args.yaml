@@ -1,2 +1,2 @@
-shape_file_name: Adm3_Counties_coarse.shp 
-location_column_name: name
+shape_file_name: LBY_adm0.shp 
+location_column_name: name_1
