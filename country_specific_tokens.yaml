@@ -1,6 +1,5 @@
 tokens:
     district: county
-^\s*(نعم|يا|ذ|ياه)(\s|[^a-zA-Z]|$)
 rules:
     'no':
         'en':
