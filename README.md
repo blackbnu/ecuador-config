@@ -1,0 +1,2 @@
+uReport configs for Ecuador
+
